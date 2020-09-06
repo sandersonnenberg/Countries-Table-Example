@@ -1,0 +1,11 @@
+.flags{
+    width:100px;
+    border:1px solid #f0f0f0;
+}
+.countriesTable{
+    border:1px solid #f0f0f0;
+}
+.ant-table-cell{
+    text-align: center !important;
+    width:15%;
+}
